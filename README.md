@@ -1,4 +1,4 @@
-# H&E Classifier with Grad-CAM 
+# H&E Classifier + Grad-CAM 
 HEclassifier_gradCAM provides an interactive Python Shiny app that extends an existing deep learning-based H&E cell classification system by incorporating Grad-CAM visualisations.
 
 ## Features
