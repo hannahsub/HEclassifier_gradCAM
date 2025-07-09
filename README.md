@@ -16,7 +16,7 @@ HEclassifier_gradCAM provides an interactive Python Shiny app that extends an ex
 
 ## Getting Started
 ```bash
-git clone https://github.com/yourusername/HEclassifier_gradCAM.git
+git clone https://github.com/hannahsub/HEclassifier_gradCAM.git
 cd HEclassifier_gradCAM
 pip install -r requirements.txt
 shiny run --reload Gradcam.py
